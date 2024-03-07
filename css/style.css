@@ -1346,4 +1346,14 @@ ul.navbar {
   text-align: center;
 }
 
+ul.skills {
+  text-align: center;
+  list-style-position: inside;
+}
+
+li.skills{
+  font-size: 30px;
+}
+
+
 /*# sourceMappingURL=style.css.map */
