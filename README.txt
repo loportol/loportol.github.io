@@ -1,3 +1,4 @@
+This is mmy personal website/portfolio. It uses the below template and assets.
 
 TITLE: 
 Profile - 100% Fully Responsive Free HTML5 Bootstrap Template
