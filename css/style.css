@@ -1344,12 +1344,16 @@ ul.navbar {
 .toppadding{
   margin-bottom: 0px !important;
   margin-top: 100px !important;
-  text-align: center;
 }
 .bottompadding{
   margin-bottom: 125px !important;
   margin-top: 0px !important;
   text-align: center;
+}
+
+.padding{
+  margin-bottom: 50px !important;
+  margin-top: 50px !important;
 }
 
 ul.skills {
