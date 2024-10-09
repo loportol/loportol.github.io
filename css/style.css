@@ -794,6 +794,7 @@ h1, h2, h3, h4, h5, h6, figure {
 .work:hover .desc h3 {
   -webkit-transform: translate3d(0, 0, 0);
   transform: translate3d(0, 0, 0);
+  color: #3E4652;
 }
 .work:hover .desc span {
   -webkit-transform: translate3d(0, 0, 0);
