@@ -3,24 +3,28 @@
   "WorkspaceRootPath": "C:\\Users\\lopor\\OneDrive\\Documents\\Portfolio\\loportol.github.io\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\lopor\\OneDrive\\Documents\\Portfolio\\loportol.github.io\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\lopor\\OneDrive\\Documents\\Portfolio\\loportol.github.io\\cellosseum.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:cellosseum.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\lopor\\OneDrive\\Documents\\Portfolio\\loportol.github.io\\corsair.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:corsair.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\lopor\\OneDrive\\Documents\\Portfolio\\loportol.github.io\\Forest.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Forest.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\lopor\\OneDrive\\Documents\\Portfolio\\loportol.github.io\\speakVR.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:speakVR.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\lopor\\OneDrive\\Documents\\Portfolio\\loportol.github.io\\images\\projectLight2.png||{58961B49-13E0-48C0-9258-13CBC4D40279}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:images\\projectLight2.png||{58961B49-13E0-48C0-9258-13CBC4D40279}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\lopor\\OneDrive\\Documents\\Portfolio\\loportol.github.io\\Metallurgy.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Metallurgy.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\lopor\\OneDrive\\Documents\\Portfolio\\loportol.github.io\\corsair.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:corsair.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\lopor\\OneDrive\\Documents\\Portfolio\\loportol.github.io\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
   "DocumentGroupContainers": [
@@ -30,8 +34,34 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 0,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "cellosseum.html",
+              "DocumentMoniker": "C:\\Users\\lopor\\OneDrive\\Documents\\Portfolio\\loportol.github.io\\cellosseum.html",
+              "RelativeDocumentMoniker": "cellosseum.html",
+              "ToolTip": "C:\\Users\\lopor\\OneDrive\\Documents\\Portfolio\\loportol.github.io\\cellosseum.html",
+              "RelativeToolTip": "cellosseum.html",
+              "ViewState": "AQIAAHQAAAAAAAAAAAAAAH8AAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2024-11-14T19:32:04.857Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Forest.html",
+              "DocumentMoniker": "C:\\Users\\lopor\\OneDrive\\Documents\\Portfolio\\loportol.github.io\\Forest.html",
+              "RelativeDocumentMoniker": "Forest.html",
+              "ToolTip": "C:\\Users\\lopor\\OneDrive\\Documents\\Portfolio\\loportol.github.io\\Forest.html",
+              "RelativeToolTip": "Forest.html",
+              "ViewState": "AQIAAD4AAAAAAAAAAAAAAFYAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2024-11-14T19:31:43.647Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Document",
               "DocumentIndex": 2,
@@ -47,51 +77,39 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 3,
               "Title": "Metallurgy.html",
               "DocumentMoniker": "C:\\Users\\lopor\\OneDrive\\Documents\\Portfolio\\loportol.github.io\\Metallurgy.html",
               "RelativeDocumentMoniker": "Metallurgy.html",
               "ToolTip": "C:\\Users\\lopor\\OneDrive\\Documents\\Portfolio\\loportol.github.io\\Metallurgy.html",
               "RelativeToolTip": "Metallurgy.html",
-              "ViewState": "AQIAAEgAAAAAAAAAAAAAAGgAAAAjAAAA",
+              "ViewState": "AQIAAEgAAAAAAAAAAAAAAGcAAAAEAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
               "WhenOpened": "2024-11-05T17:31:18.238Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 4,
               "Title": "corsair.html",
               "DocumentMoniker": "C:\\Users\\lopor\\OneDrive\\Documents\\Portfolio\\loportol.github.io\\corsair.html",
               "RelativeDocumentMoniker": "corsair.html",
               "ToolTip": "C:\\Users\\lopor\\OneDrive\\Documents\\Portfolio\\loportol.github.io\\corsair.html",
               "RelativeToolTip": "corsair.html",
-              "ViewState": "AQIAADkAAAAAAAAAAAAAAFgAAAAdAAAA",
+              "ViewState": "AQIAANUAAAAAAAAAAAAAAOkAAAAXAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
               "WhenOpened": "2024-11-05T17:30:59.815Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "projectLight2.png",
-              "DocumentMoniker": "C:\\Users\\lopor\\OneDrive\\Documents\\Portfolio\\loportol.github.io\\images\\projectLight2.png",
-              "RelativeDocumentMoniker": "images\\projectLight2.png",
-              "ToolTip": "C:\\Users\\lopor\\OneDrive\\Documents\\Portfolio\\loportol.github.io\\images\\projectLight2.png",
-              "RelativeToolTip": "images\\projectLight2.png",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
-              "WhenOpened": "2024-11-05T17:30:06.184Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 5,
               "Title": "index.html",
               "DocumentMoniker": "C:\\Users\\lopor\\OneDrive\\Documents\\Portfolio\\loportol.github.io\\index.html",
               "RelativeDocumentMoniker": "index.html",
               "ToolTip": "C:\\Users\\lopor\\OneDrive\\Documents\\Portfolio\\loportol.github.io\\index.html",
               "RelativeToolTip": "index.html",
-              "ViewState": "AQIAAGYAAAAAAAAAAAAawHoAAAAAAAAA",
+              "ViewState": "AQIAAGYAAAAAAAAAAAAawIcAAAAiAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
               "WhenOpened": "2024-11-05T17:29:06.452Z",
               "EditorCaption": ""
