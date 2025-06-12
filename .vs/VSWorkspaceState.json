@@ -1,8 +1,10 @@
 {
   "ExpandedNodes": [
     "",
+    "\\audio",
+    "\\audio\\projectlight",
     "\\images"
   ],
-  "SelectedNode": "\\cellosseum.html",
+  "SelectedNode": "\\images",
   "PreviewInSolutionExplorer": false
 }
